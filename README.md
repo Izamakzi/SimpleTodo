@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='simpletodogif.gif' title='Video Walkthrough' width='240'height ='480' alt='Video Walkthrough' />
+<img src='simpletodogif.gif' title='Video Walkthrough' width='240' height ='480' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
